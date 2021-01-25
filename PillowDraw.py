@@ -1,3 +1,6 @@
+#adding some comments to test git commands
+#add more comments
+
 from PIL import Image, ImageDraw
 
 # size of image
